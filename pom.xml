@@ -29,8 +29,8 @@
 <artifactId>maven-compiler-plugin</artifactId>
 <version>3.8.1</version>
 <configuration>
-<source>1.7</source> <!-- 1.8 if it doesnt work-->
-<target>1.7</target> <!-- 1.8 if it doesnt work-->
+<source>1.8</source> <!-- 1.8 if it doesnt work-->
+<target>1.8</target> <!-- 1.8 if it doesnt work-->
 </configuration>
 </plugin>
 <!-- Example: Maven Surefire Plugin to run tests -->
